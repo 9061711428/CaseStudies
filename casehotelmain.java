@@ -1,4 +1,4 @@
-package Calc;
+package Calc;//CASESTUDY 4
 import java.util.Scanner;
 public class casehotelmain {
 	

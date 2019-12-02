@@ -1,4 +1,4 @@
-package Calc;
+package Calc;//CASE Study 4
 
 public class casehotelbook {
 
